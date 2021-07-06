@@ -1,6 +1,9 @@
+# Hi I'm SheykoWk    👋
 <img src="https://github.com/SheykoWk/SheykoWk/blob/main/svg.svg"/>
-
-
+[![](https://img.shields.io/badge/HackerRank-sheyko_wk-brightgreen)](https://www.hackerrank.com/sheyko_wk)
+[![](https://img.shields.io/badge/LinkedIn-sheyko-wk-026bbb208-blue)](https://www.linkedin.com/in/sheyko-wk-026bbb208/)
+[![](https://img.shields.io/badge/Gmail-sheyko.wk@gmail.com-red)](mailto:sheyko.wk@gmail.com)
+[![](https://img.shields.io/twitch/status/sheyko_wk?label=Status%20Twitch%20%3A)](https://twitch.tv/sheyko_wk)
 <p><em>A bachelor student at <a href="https://www.academlo.com/">Academlo</a>, Full stack web developer. 😊</br>
 </em></p>
 
@@ -23,6 +26,16 @@ const aboutMe = {
    },
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
+   currentLearning: {
+   	fullStackWebDevelopment: {
+		frontEnd: "60%",
+		backEnd: "20%",
+   		database: "8%"
+	},
+	cibersecurityAndEthicalHacking: {
+		bashScripting: "40%"
+	}
+   }
 };
 ```
 </br></br>
