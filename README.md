@@ -1,4 +1,4 @@
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+<img src="https://github.com/SheykoWk/SheykoWk/blob/main/svg.svg"/>
 
 
 <p><em>A bachelor student at <a href="https://www.academlo.com/">Academlo</a>, Full stack web developer. 😊</br>
@@ -28,8 +28,8 @@ const aboutMe = {
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=SheykoWkk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Sheyko's github stats](https://github-readme-stats.vercel.app/api?username=SheykoWk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
 
-⭐️ From [reeveng](https://github.com/ShwykoWk) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+⭐️ From [SheykoWk](https://github.com/SheykoWk) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
