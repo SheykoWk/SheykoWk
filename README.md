@@ -7,19 +7,21 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python],
+   name: "Sahid Kick",
+   nickName: ["Sheyko", "Sh3yk0"],
+   pronouns: "he" || "him",
+   code: [Javascript,Typescript, Bash, Go,Php, HTML, CSS, Python],
    technologies: {
       frontEnd: {
-         js: ["React", "Jquery", "Redux"],
+         js: ["Reactjs","jquery","Redux", "React Native", "React Router", "Axios", "Http/Ajax"
          css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI", "Sass"]
       },
       backEnd: {
-	 python: ["Django"],
-         js: ["Node", "Express"],
+	 python: ["Django", "Flask"],
+         js: ["Nodejs","Express", "Nextjs"],
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      mobile: ["Android"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
