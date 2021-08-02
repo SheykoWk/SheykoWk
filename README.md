@@ -13,7 +13,7 @@ const aboutMe = {
    code: [Javascript,Typescript, Bash, Go,Php, HTML, CSS, Python],
    technologies: {
       frontEnd: {
-         js: ["Reactjs","jquery","Redux", "React Native", "React Router", "Axios", "Http/Ajax"
+         js: ["Reactjs","jquery","Redux", "React Native", "React Router", "Axios", "Http/Ajax"],
          css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI", "Sass"]
       },
       backEnd: {
