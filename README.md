@@ -1,9 +1,11 @@
-# Hi I'm SheykoWk    👋
+# Hi I'm SheykoWk    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img src="https://github.com/SheykoWk/SheykoWk/blob/main/svg.svg"/>
 
 <p><em>A bachelor student at <a href="https://www.academlo.com/">Academlo</a>, Full stack web developer. 😊</br>
 </em></p>
-
+[![Twitter: DevSh3yk0](https://img.shields.io/twitter/follow/DevSh3yk0?style=social)](https://twitter.com/DevSh3yk0)
+[![Linkedin: Sahid Kick](https://img.shields.io/badge/-sh3yk0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sh3yk0/)](https://www.linkedin.com/in/sh3yk0/)
+[![GitHub SheykoWk](https://img.shields.io/github/followers/SheykoWk?label=follow&style=social)](https://github.com/SheykoWk)
 
 ```javascript
 const aboutMe = {
