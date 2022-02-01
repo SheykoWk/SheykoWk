@@ -113,7 +113,7 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/sh3yk0/).
 
 ### Hackathon participation 💻
 
-- [Hackathon Citibanamex 2020](https://github.com/SheykoWk/SheykoWk/static/certificado.png) Alzheimer's MRI Analysis
+- [Hackathon Citibanamex 2020](https://raw.githubusercontent.com/SheykoWk/SheykoWk/main/static/certificado.png) Alzheimer's MRI Analysis
 
 
 <!--START_SECTION:waka-->
